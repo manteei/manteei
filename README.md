@@ -16,10 +16,15 @@
 </h1>
 </div>
 <div>
- :woman_technologist: About Me :
-</div>
-<div>
- :hammer_and_wrench: Languages and Tools :
+  
+### About me
+- 🌱 3rd year student at ITMO
+- 🌍 English B2
+
+---
+
+### Languages and tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,7 +38,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </div>
-:fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manteei&theme=ocean_dark)
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manteei&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manteei&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manteei&theme=github_dark" alt=""/>
+
+---
+
  
 
