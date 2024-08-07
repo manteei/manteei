@@ -18,8 +18,8 @@
 <div>
   
 ### About me
-- 🌱 3rd year student at ITMO
-- 🌍 English B2
+- 🌱 4rd year student at ITMO
+- 🌍 English С1
 
 ---
 
